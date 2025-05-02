@@ -180,10 +180,6 @@ In Home view, all the views button will be available. User will land on specific
 - Products
 - Support
 
-## Overall Report
-
-![Overall Report.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Overall.gif)
-
 ## Info Page
 
 ![Info.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Information%20View%20Page.png)
@@ -206,12 +202,6 @@ In Home view, all the views button will be available. User will land on specific
 ## Executive View
 
 ![Executive.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Executive%20View%20Page.png)
-
-## Products
-
-![Products](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Products%20View.gif)
-
-you can find the full report file here : [Report](https://github.com/gireesh2580/Business_Insights_360/blob/main/Report/360.pbix)
 
 
 ## Project Outcome
