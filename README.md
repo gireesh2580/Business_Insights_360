@@ -186,26 +186,26 @@ In Home view, all the views button will be available. User will land on specific
 
 ## Info Page
 
-![Info.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Info.gif)
+![Info.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Information%20View%20Page.png)
 
 ## Finance View
 
-![Finace.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finace.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Finance%20View%20Page.png)
 ## Sales View
 
-![Sales.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Sales%20View%20Page.png)
 
 ## Marketing View
 
-![Marketing.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Market%20View%20Page.png)
 
 ## Supply chain View
 
-![Supply chain.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply chain.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Supply%20Chain%20View%20Page.png)
 
 ## Executive View
 
-![Executive.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive.gif](https://github.com/gireesh2580/Business_Insights_360/blob/main/Resources/Executive%20View%20Page.png)
 
 ## Products
 
